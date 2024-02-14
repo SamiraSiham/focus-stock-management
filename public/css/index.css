@@ -1,0 +1,14 @@
+nav {
+    background-color: #343957;
+}
+.footer {
+    background-color: rgba(88, 115, 254, 0.04);
+    display: block;
+}
+.footer .copyright {
+    padding: 0.9375rem;
+}
+.footer .copyright p {
+    text-align: center;
+    margin: 0;
+}
